@@ -1,5 +1,5 @@
-## Medical anthropologist, university professor in training 
-# Cognitive scientist specialized in psychological anthropology, ethnopsychiatry, social approaches to mental health, and human bio-cultural diversity and its applications in medicine.
+# Medical anthropologist, university professor in training 
+## Cognitive scientist specialized in psychological anthropology, ethnopsychiatry, social approaches to mental health, and human bio-cultural diversity and its applications in medicine.
 
 I am a university professor in training, doctoral researcher at the Medical Anthropology Research Center, University Rovira i Virgili (Tarragona, Spain), working at the interface between social and health sciences. I am also a physician-scientist to be, currently studying medicine and medical bionegineering at undergraduate level (Universitat de Barcelona, Universitat Autònoma de Barcelona), at the same time I further my education as professor with a master in learning and teaching (Malmö University). My current research project, funded by the Spanish Ministry of Universities until October 2026 via a Professor in Training grant (FPU, 2019), is an action-research one focused on assessing ways to eliminate coercion in mental health settings through patient and stakeholders engagement.
 
